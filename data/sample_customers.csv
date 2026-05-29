@@ -1,0 +1,11 @@
+customer_name,phone,last_purchase_date,purchase_count,total_spend,products_bought,purchase_frequency_days
+Amaka Obi,08012345678,2026-05-10,12,45000,"Ankara fabric, Lace material, Accessories",7
+Bola Adeyemi,08023456789,2026-05-28,24,187000,"Designer bags, Shoes, Jewelry",5
+Chidi Nwosu,08034567890,2026-04-15,3,12000,Plain fabric,30
+Fatima Aliyu,08045678901,2026-05-25,18,92000,"Ankara fabric, Aso-oke, Thread",6
+Emeka Okafor,08056789012,2026-03-20,2,8000,Accessories,45
+Ngozi Eze,08067890123,2026-05-27,31,210000,"Designer bags, Lace material, Shoes, Jewelry",4
+Yusuf Musa,08078901234,2026-04-01,5,23000,"Plain fabric, Thread",21
+Kemi Lawson,08089012345,2026-05-20,9,38000,"Ankara fabric, Accessories",10
+Tunde Bakare,08090123456,2026-02-14,1,5000,Plain fabric,90
+Aisha Mohammed,08001234567,2026-05-26,15,78000,"Aso-oke, Lace material, Accessories",8
